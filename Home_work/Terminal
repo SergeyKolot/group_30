@@ -1,12 +1,12 @@
 HW_1. The first part
 Linux terminal (GitBash) commands
 
-1) Посмотреть где я
-2) Создать папку
-3) Зайти в папку
-4) Создать 3 папки
-5) Зайти в любоую папку
-6) Создать 5 файлов (3 txt, 2 json)
+1) Посмотреть где я - pwd
+2) Создать папку - mkdir foldername
+3) Зайти в папку - cd foldername
+4) Создать 3 папки - mkdir foldername1 foldername2 foldername3
+5) Зайти в любоую папку - cd foldername1
+6) Создать 5 файлов (3 txt, 2 json) - touch file1.txt file2.txt file3.txt 
 7) Создать 3 папки
 8. Вывести список содержимого папки
 9) + Открыть любой txt файл
