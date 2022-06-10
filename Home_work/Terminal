@@ -7,7 +7,7 @@ Linux terminal (GitBash) commands
 4) Создать 3 папки - mkdir foldername1 foldername2 foldername3
 5) Зайти в любоую папку - cd foldername1
 6) Создать 5 файлов (3 txt, 2 json) - touch file1.txt file2.txt file3.txt 
-7) Создать 3 папки
+7) Создать 3 папки - mkdir foldername4 foldername5 foldername6
 8. Вывести список содержимого папки
 9) + Открыть любой txt файл
 10) + написать туда что-нибудь, любой текст.
