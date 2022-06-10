@@ -27,4 +27,19 @@ Linux terminal (GitBash) commands
 Задание *
 1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request
+
+curl "http://162.55.220.72:5005/get_method?name=(Sergey)&age=(32)" 
+[
+  "(Sergey)", 
+  "(32)"
+]
+
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+cd group_30_free/
+mkdir qa_1 qa_2 qa_3
+cd qa_1/
+touch qq_1.txt qq_2.txt qq_3.txt qq_4.json qq_5.json
+mkdir qa_4 qa_5 qa_6
+ls -la
+cd ../..
+mv group_30_free/qa_1/qq_1.txt group_30_free/qa_1/qq_2.txt group_30_free/qa_1/qa_4
