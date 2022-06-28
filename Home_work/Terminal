@@ -41,4 +41,5 @@ cd qa_1/
 touch qq_1.txt qq_2.txt qq_3.txt qq_4.json qq_5.json
 mkdir qa_4 qa_5 qa_6
 ls -la
+cd ../..
 mv group_30_free/qa_1/qq_1.txt group_30_free/qa_1/qq_2.txt group_30_free/qa_1/qa_4
